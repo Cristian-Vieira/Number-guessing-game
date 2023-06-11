@@ -1,5 +1,5 @@
 # Number guessing game
- #### Este é um jogo de adivinhação simples singleplayer em C++. O jogo é entre o usuário e o computador, onde ambos tentam adivinhar o numero que o outro pensou.
+ #### Este é um jogo singleplayer de adivinhação simples em C++. O jogo é entre o usuário e o computador, onde ambos tentam adivinhar o numero que o outro pensou.
 
 # Requisitos:
 - Compilador de C++ pré-instalado
